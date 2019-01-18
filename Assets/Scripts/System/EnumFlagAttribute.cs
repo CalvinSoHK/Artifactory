@@ -1,0 +1,10 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EnumFlagAttribute : PropertyAttribute
+{
+    public EnumFlagAttribute() { }
+
+    public void Derp() { }
+}
